@@ -6,5 +6,6 @@ namespace WebApplication1.Models
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
         //hello moi nguoi
+        //abc
     }
 }
